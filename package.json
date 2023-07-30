@@ -1,0 +1,20 @@
+{
+  "name": "ass1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "chatbot.js",
+  "scripts": {
+    "start": "script1.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "script1.js": "node script1.js",
+    "script2.js": "node script2.js",
+    "script3.js": "node script3.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "node-static": "^0.7.11",
+    "nodejs-mysql": "^0.1.3"
+  }
+}
